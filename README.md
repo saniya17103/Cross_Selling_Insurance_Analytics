@@ -58,7 +58,6 @@ The dataset contains **50,000 customer records** with the following information:
 | NumPy | Numerical Computing |
 | Matplotlib | Data Visualization |
 | Seaborn | Statistical Visualization |
-| Scikit-Learn | Machine Learning |
 | Jupyter Notebook | Development Environment |
 
 ---
